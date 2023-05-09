@@ -1,1 +1,6 @@
 print("Hello World")
+A = int(input())
+B = int(input())
+print("Soma = ", A+B)
+print("Produto = ", A*B)
+print("Gustavo Rocha")
